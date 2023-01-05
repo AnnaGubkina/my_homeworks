@@ -3,7 +3,7 @@
 ## Блок 1. Stream API, работа с файлами и сборка проектов
 
  Лямбда-выражения и функциональные интерфейсы
-* ["Калькулятор",Задача "Работяга"](https://github.com/AnnaGubkina/Lambda_Calculator_Worker)
+* ["Калькулятор", "Работяга"](https://github.com/AnnaGubkina/Lambda_Calculator_Worker)
 
 
  Stream API. Потоки, повторные вызовы, основные методы

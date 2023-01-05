@@ -44,26 +44,30 @@
 
 #### Блок 4. Структура JVM
  JVM. Организация памяти, сборщики мусора, VisualVM
-- [Понимание JVM, Исследование JVM через VisualVM](https://github.com/AnnaGubkina/JavaCore_10.1_JVM)
+* [Понимание JVM, Исследование JVM через VisualVM](https://github.com/AnnaGubkina/JavaCore_10.1_JVM)
+
+---
 
 ## Модуль «Шаблоны проектирования»
 
  Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
  
-- [Builder. Задача "Люди"](https://github.com/AnnaGubkina/JavaPatterns_People_1.1_Netology)
-- [Singleton. Задача "Логгер"](https://github.com/AnnaGubkina/JavaPatterns_Logger_1.2_Netology)
+* [Builder. Задача "Люди"](https://github.com/AnnaGubkina/JavaPatterns_People_1.1_Netology)
+* [Singleton. Задача "Логгер"](https://github.com/AnnaGubkina/JavaPatterns_Logger_1.2_Netology)
 
  Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
  
-- [Adapter. Задача "Калькулятор"](https://github.com/AnnaGubkina/JavaPatterns_Adapter_Calculator_Netology)
-- [Facade. Задача "Двоичный фасад"](https://github.com/AnnaGubkina/JavaPatterns_Facade_BinaryFacade_Netology)
+* [Adapter. Задача "Калькулятор"](https://github.com/AnnaGubkina/JavaPatterns_Adapter_Calculator_Netology)
+* [Facade. Задача "Двоичный фасад"](https://github.com/AnnaGubkina/JavaPatterns_Facade_BinaryFacade_Netology)
 
  Поведенческие шаблоны. Command, CoR, Observer, Iterator
  
-- [Iterator. Задача "Бесконечная итерация"](https://github.com/AnnaGubkina/JavaPatterns_Iterator_Endless_iteration_Netology)
+* [Iterator. Задача "Бесконечная итерация"](https://github.com/AnnaGubkina/JavaPatterns_Iterator_Endless_iteration_Netology)
 
  Magics, DRY, SOLID
-- [Задача "Магазин"](https://github.com/AnnaGubkina/PhoneMarket_DRY_SOLID)
+* [Задача "Магазин"](https://github.com/AnnaGubkina/PhoneMarket_DRY_SOLID)
+
+---
 
 ## Модуль «Многопоточное и функциональное программирование»
 
@@ -103,7 +107,7 @@
 Курсовой проект **Сетевой чат**
 * [Сетевой чат](https://github.com/AnnaGubkina/OnlineChat)
 
-
+---
 
 ## Модуль «Web, Spring & Spring MVC»
 
@@ -129,6 +133,7 @@
  Spring Web MVC
 * [Задача: "Migration"](https://github.com/AnnaGubkina/MVC_migration)
 
+---
 
 ## Модуль «Spring Boot, deployment и инфраструктура»
 
@@ -157,6 +162,7 @@
 Курсовой проект **Сервис перевода денег**
 [Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
 
+---
 
 ## Модуль «Хранение данных и организация безопасности»
 

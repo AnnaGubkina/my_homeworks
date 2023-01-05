@@ -1,6 +1,4 @@
-#  Домашние задания по курсу "Java developer"
-
-## Модуль «Java Core»:
+#  Домашние задания по курсу «Java Core»
 
 ## Блок 1. Stream API, работа с файлами и сборка проектов
 
@@ -28,76 +26,83 @@
 
   Тестирование кода  Unit-тесты и Mockito
 * [Использование JUnit](https://github.com/AnnaGubkina/JUnit-examples_HomeWork_6.1_Netology)
-* [Тестирование сервиса отправки сообщений](https://github.com/AnnaGubkina/geo-service)
+* [Тестирование сервиса отправки сообщений(Mockito)](https://github.com/AnnaGubkina/geo-service)
 
 
-
-<!--
 
 ## Блок 3. Работа с сетью
 
-3.1 Основы работы с сетью. Модель OSI
-- [Клиент-серверное приложение](https://github.com/cat0cat/JavaCore_3.1.1_Network.git)
-- [Клиент-сервер с рюшечками](https://github.com/cat0cat/JavaCore_3.1.2_Network.git)
+ Основы работы с сетью. Модель OSI
+* [Клиент-серверное приложение](https://github.com/AnnaGubkina/Client-server-application_Java_Core_8.1_Netology)
+* [Клиент-сервер с рюшечками](https://github.com/AnnaGubkina/Client-server-with-frills_Java_Core_8.2_Netology)
 
-3.2 Протокол HTTP. Вызовы удаленных серверов
-- [Запрос на получение списка фактов о кошках](https://github.com/cat0cat/JavaCore_3.2.1_http.git)
-- [Чтение данных API NASA](https://github.com/cat0cat/JavaCore_3.2.2_http.git)
+ Протокол HTTP. Вызовы удаленных серверов
+* [Запрос на получение списка фактов о кошках](https://github.com/AnnaGubkina/Request-for-cats_Java_Core_HTTP_Netology_9.1)
+* [Чтение данных API NASA](https://github.com/AnnaGubkina/Reading-NASA-API-data_JavaCore_HTTP_Netology_9.2)
 
 ## Блок 4. Структура JVM
-4.1 JVM. Организация памяти, сборщики мусора, VisualVM
-- [Понимание JVM, Исследование JVM через VisualVM](https://github.com/cat0cat/JavaCore_4.1_JVM.git)
+ JVM. Организация памяти, сборщики мусора, VisualVM
+- [Понимание JVM, Исследование JVM через VisualVM](https://github.com/AnnaGubkina/JavaCore_10.1_JVM)
 
 # 4. Домашние задания по курсу «Шаблоны проектирования»
 
-1.1 Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
-- [Builder. Задача "Люди"](https://github.com/cat0cat/JavaPattern_1.1.1_Creational.git)
-- [Singleton. Задача "Логгер"](https://github.com/cat0cat/JavaPattern_1.1.2_Creational.git)
+ Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
+ 
+- [Builder. Задача "Люди"](https://github.com/AnnaGubkina/JavaPatterns_People_1.1_Netology)
+- [Singleton. Задача "Логгер"](https://github.com/AnnaGubkina/JavaPatterns_Logger_1.2_Netology)
 
-1.2 Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
-- [Adapter. Задача "Калькулятор"](https://github.com/cat0cat/JavaPattern_1.2.1_Structural.git)
-- [Facade. Задача "Двоичный фасад"](https://github.com/cat0cat/JavaPattern_1.2.2_Structural.git)
+ Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
+ 
+- [Adapter. Задача "Калькулятор"](https://github.com/AnnaGubkina/JavaPatterns_Adapter_Calculator_Netology)
+- [Facade. Задача "Двоичный фасад"](https://github.com/AnnaGubkina/JavaPatterns_Facade_BinaryFacade_Netology)
 
-1.3 Поведенческие шаблоны. Command, CoR, Observer, Iterator
-- [Iterator. Задача "Бесконечная итерация"](https://github.com/cat0cat/JavaPattern_1.3_Behave.git)
+ Поведенческие шаблоны. Command, CoR, Observer, Iterator
+ 
+- [Iterator. Задача "Бесконечная итерация"](https://github.com/AnnaGubkina/JavaPatterns_Iterator_Endless_iteration_Netology)
 
-1.4 Magics, DRY, SOLID
-- [Задача "Магазин"](https://github.com/cat0cat/JavaPattern_1.4_SOLID.git)
+ Magics, DRY, SOLID
+- [Задача "Магазин"](https://github.com/AnnaGubkina/PhoneMarket_DRY_SOLID)
 
 # 5. Домашние задания по курсу «Многопоточное и функциональное программирование»
 
 ## Блок 1. Многопоточное программирование
 
-1.1 Многопоточное (параллельное) программирование. Создание и запуск потоков
-- [Межпоточный диалог](https://github.com/cat0cat/Multithreading_1.1.1.git)
-- [Межпоточный диалог со счетчиком](https://github.com/cat0cat/Multithreading_1.1.2.git)
-- [Калькулятор массива](https://github.com/cat0cat/Multithreading_1.1.3.git)
+ Многопоточное (параллельное) программирование. Создание и запуск потоков
+* [Межпоточный диалог](https://github.com/AnnaGubkina/Multi-threaded-programming_Task-1_Inter-thread-dialogue)
+* [Межпоточный диалог со счетчиком](https://github.com/AnnaGubkina/Multi-threaded-programming_Task-2_Inter-thread-dialogue-counter)
+* [Калькулятор массива](https://github.com/AnnaGubkina/Array-calculator_ForkJoinPool)
 
-1.2 Работа с синхронизацией. Synchronization, wait, notify, sleep, lock
-- [Wait, notify, sleep. Задача "Автосалон"](https://github.com/cat0cat/Multithreading_1.2.1.git)
-- [Lock. Задача "Продвинутый автосалон"](https://github.com/cat0cat/Multithreading_1.2.2.git)
+ Работа с синхронизацией. Synchronization, wait, notify, sleep, lock
+- [Wait, notify, sleep. Задача "Автосалон"](https://github.com/AnnaGubkina/Car_showroom_synchronized)
+- [Lock. Задача "Продвинутый автосалон"](https://github.com/AnnaGubkina/Car_showroom_reentrantLock)
 
-1.3 Volatile, threadlocal atomics
-- [Volatile. Задача "Самая бесполезная коробка"](https://github.com/cat0cat/Multithreading_1.3.1.git)
-- [Atomics. Задача "Отчет для налоговой"](https://github.com/cat0cat/Multithreading_1.3.2.git)
+ Volatile, threadlocal atomics
+* [Volatile. Задача "Самая бесполезная коробка"](https://github.com/AnnaGubkina/Fun-box_volatile)
+* [Atomics. Задача "Отчет для налоговой"](https://github.com/AnnaGubkina/Tax_report_LongAdder)
 
-1.4 Коллекции для параллельной (конкурирующей) работы
-- [Задача: "Колл-центр"](https://github.com/cat0cat/Multithreading_1.4.1.git)
-- [Задача "Разница в производительности"](https://github.com/cat0cat/Multithreading_1.4.2.git)
+ Коллекции для параллельной (конкурирующей) работы
+* [Задача: "Колл-центр"](https://github.com/AnnaGubkina/Call_center_multireading_queue)
+* [Задача "Разница в производительности"](https://github.com/AnnaGubkina/ConcurrentHashMap-vs-Collections.synchronizedMap)
 
-1.5 Клиент-серверное взаимодействие. Blocking и Non-Blocking IO
-- [Blocking IO. Задача: "Тяжелые вычисления"](https://github.com/cat0cat/Multithreading_1.5.1.git)
-- [Non-Blocking IO. Задача "Долой пробелы"](https://github.com/cat0cat/Multithreading_1.5.2.git)
+ Клиент-серверное взаимодействие. Blocking и Non-Blocking IO
+* [Blocking IO. Задача: "Тяжелые вычисления"](https://github.com/AnnaGubkina/Computation-of-the-Fibonacci_Client_Server)
+* [Non-Blocking IO. Задача "Долой пробелы"](https://github.com/AnnaGubkina/Remove-spaces-client-server-communication)
 
 ## Блок 2. Блок 2. Функциональное программирование, TDD и DDD
 
-2.1 Функциональное программирование
-- [Задача: "Генератор словаря"](https://github.com/cat0cat/Functional_2.1.1.git)
-- [Задача: "Кадастровый помощник"](https://github.com/cat0cat/Functional_2.1.2.git)
+ Функциональное программирование
+* [Задача: "Генератор словаря"](https://github.com/AnnaGubkina/Dictionary-generator_functional-programming)
+* [Задача: "Кадастровый помощник"](https://github.com/AnnaGubkina/CadastralAssistant-Functional-Programming)
 
-2.2 Методология разработки. TDD, DDD
-- [TDD. Разработка через тестирование](https://github.com/cat0cat/Functional_2.2.1.git)
+ Методология разработки. TDD, DDD
+* [TDD. Разработка через тестирование](https://github.com/AnnaGubkina/Credit-calculator-TDD)
+* [Разработка с применением DDD](https://github.com/AnnaGubkina/TourAgency_DDD)
 
+Курсовой проект "Сетевой чат"
+* [Сетевой чат](https://github.com/AnnaGubkina/OnlineChat)
+
+
+<!--
 # 6. Домашние задания по курсу «Web, Spring & Spring MVC»
 
 ## Блок 1. Web

@@ -2,7 +2,7 @@
 
 ## Модуль «Java Core»:
 
-## Блок 1. Stream API, работа с файлами и сборка проектов
+#### Блок 1. Stream API, работа с файлами и сборка проектов
 
  Лямбда-выражения и функциональные интерфейсы
 * ["Калькулятор", "Работяга"](https://github.com/AnnaGubkina/Lambda_Calculator_Worker)
@@ -24,7 +24,7 @@
  Работа с файлами CSV, XML, JSON
 * [CSV - JSON парсер, XML - JSON парсер, JSON парсер](https://github.com/AnnaGubkina/CSV_XML_JSON-HomeWork_5.1_Netology)
 
-## Блок 2. Тестирование программы
+#### Блок 2. Тестирование программы
 
   Тестирование кода  Unit-тесты и Mockito
 * [Использование JUnit](https://github.com/AnnaGubkina/JUnit-examples_HomeWork_6.1_Netology)
@@ -32,7 +32,7 @@
 
 
 
-## Блок 3. Работа с сетью
+#### Блок 3. Работа с сетью
 
  Основы работы с сетью. Модель OSI
 * [Клиент-серверное приложение](https://github.com/AnnaGubkina/Client-server-application_Java_Core_8.1_Netology)
@@ -42,7 +42,7 @@
 * [Запрос на получение списка фактов о кошках](https://github.com/AnnaGubkina/Request-for-cats_Java_Core_HTTP_Netology_9.1)
 * [Чтение данных API NASA](https://github.com/AnnaGubkina/Reading-NASA-API-data_JavaCore_HTTP_Netology_9.2)
 
-## Блок 4. Структура JVM
+#### Блок 4. Структура JVM
  JVM. Организация памяти, сборщики мусора, VisualVM
 - [Понимание JVM, Исследование JVM через VisualVM](https://github.com/AnnaGubkina/JavaCore_10.1_JVM)
 
@@ -67,7 +67,7 @@
 
 ## Модуль «Многопоточное и функциональное программирование»
 
-## Блок 1. Многопоточное программирование
+#### Блок 1. Многопоточное программирование
 
  Многопоточное (параллельное) программирование. Создание и запуск потоков
 * [Межпоточный диалог](https://github.com/AnnaGubkina/Multi-threaded-programming_Task-1_Inter-thread-dialogue)
@@ -90,7 +90,7 @@
 * [Blocking IO. Задача: "Тяжелые вычисления"](https://github.com/AnnaGubkina/Computation-of-the-Fibonacci_Client_Server)
 * [Non-Blocking IO. Задача "Долой пробелы"](https://github.com/AnnaGubkina/Remove-spaces-client-server-communication)
 
-## Блок 2. Функциональное программирование, TDD и DDD
+#### Блок 2. Функциональное программирование, TDD и DDD
 
  Функциональное программирование
 * [Задача: "Генератор словаря"](https://github.com/AnnaGubkina/Dictionary-generator_functional-programming)
@@ -107,7 +107,7 @@
 
 ## Модуль «Web, Spring & Spring MVC»
 
-## Блок 1. Web
+#### Блок 1. Web
 
  HTTP и современный Web
 * [Задачи "Refactoring & MultiThreading" и "Handlers"](https://github.com/AnnaGubkina/Http-server)
@@ -117,7 +117,7 @@
 * [Query](https://github.com/AnnaGubkina/Http-server/tree/feature/query)
 
 
-## Блок 2. Java EE, Java Servlets
+#### Блок 2. Java EE, Java Servlets
 
  Servlets Containers
 * [CRUD](https://github.com/AnnaGubkina/Servlet-Containers)
@@ -132,7 +132,7 @@
 
 ## Модуль «Spring Boot, deployment и инфраструктура»
 
-## Блок 1. Spring Boot
+#### Блок 1. Spring Boot
 
  Spring Boot: назначение, внутреннее устройство
 - [Conditional приложение](https://github.com/AnnaGubkina/Conditional)
@@ -141,12 +141,12 @@
 - [Сервис авторизации](https://github.com/AnnaGubkina/Authorization-service)
 - [Продвинутый сервис авторизации](https://github.com/AnnaGubkina/Authorization-service/pull/1)
 
-## Блок 2. Linux
+#### Блок 2. Linux
 
  Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl)
 * [Задача Прокси на nginx](https://github.com/AnnaGubkina/Authorization-service/blob/master/nginx.txt)
 
-## Блок 3. Docker
+#### Блок 3. Docker
 
  Основы работы: Docker, Docker Compose, упаковка приложений
 * [Dockerfile к задаче Authorization-service](https://github.com/AnnaGubkina/Authorization-service)
@@ -160,7 +160,7 @@
 
 ## Модуль «Хранение данных и организация безопасности»
 
-## Блок 1. Реляционные СУБД и JDBC
+#### Блок 1. Реляционные СУБД и JDBC
 
  SQL: основы работы, DDL, DML
 * [Таблица пользователей](https://github.com/AnnaGubkina/Users_Table_SQL)
@@ -172,7 +172,7 @@
 * [DAO слой](https://github.com/AnnaGubkina/JDBC_Layer)
 * [Миграции](https://github.com/AnnaGubkina/JDBC_Layer/tree/migrations)
 
-## Блок 2. JPA
+#### Блок 2. JPA
 
  ORM, Hibernate
 * [DAO слой c Hibernate](https://github.com/AnnaGubkina/Hibernate_layer)
@@ -183,7 +183,7 @@
 * [DAO слой c JPA Repositories](https://github.com/AnnaGubkina/Hibernate_layer/tree/jpa-repository)
 * [@Query](https://github.com/AnnaGubkina/Hibernate_layer/tree/jpa-repository-query)
 
-## Блок 3. Spring Security
+#### Блок 3. Spring Security
 
  Безопасность в веб-приложениях, Spring Security
 * [Безопасное приложение](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_endpoints)

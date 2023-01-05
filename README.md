@@ -46,7 +46,7 @@
  JVM. Организация памяти, сборщики мусора, VisualVM
 - [Понимание JVM, Исследование JVM через VisualVM](https://github.com/AnnaGubkina/JavaCore_10.1_JVM)
 
-# 4. Домашние задания по курсу «Шаблоны проектирования»
+## Модуль «Шаблоны проектирования»
 
  Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
  
@@ -65,7 +65,7 @@
  Magics, DRY, SOLID
 - [Задача "Магазин"](https://github.com/AnnaGubkina/PhoneMarket_DRY_SOLID)
 
-## Домашние задания по курсу «Многопоточное и функциональное программирование»
+## Модуль «Многопоточное и функциональное программирование»
 
 ## Блок 1. Многопоточное программирование
 
@@ -105,7 +105,7 @@
 
 
 <!--
-##  Домашние задания по курсу «Web, Spring & Spring MVC»
+## Модуль «Web, Spring & Spring MVC»
 
 ## Блок 1. Web
 
@@ -132,7 +132,7 @@
 - [Задача: "Migration"](https://github.com/cat0cat/SpringWeb_MVC.git)
 - [Задача: "Данные не удаляются"](https://github.com/cat0cat/SpringWeb_MVC/tree/feature/removed)
 
-# 7. Домашние задания по курсу «Spring Boot, deployment и инфраструктура»
+## Модуль «Spring Boot, deployment и инфраструктура»
 
 ## Блок 1. Spring Boot
 
@@ -158,7 +158,7 @@
 3.2 Обзорная лекция: TestContainers, Kubernetes, облака
 - [Интеграционное тестирование](https://github.com/cat0cat/SpringBoot_Conditional/tree/integration_testing)
 
-# 8. Домашние задания по курсу «Хранение данных и организация безопасности»
+## Модуль «Хранение данных и организация безопасности»
 
 ## Блок 1. Реляционные СУБД и JDBC
 

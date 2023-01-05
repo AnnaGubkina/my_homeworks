@@ -100,94 +100,94 @@
 * [TDD. Разработка через тестирование](https://github.com/AnnaGubkina/Credit-calculator-TDD)
 * [Разработка с применением DDD](https://github.com/AnnaGubkina/TourAgency_DDD)
 
-Курсовой проект "Сетевой чат"
+Курсовой проект **Сетевой чат**
 * [Сетевой чат](https://github.com/AnnaGubkina/OnlineChat)
 
 
-<!--
+
 ## Модуль «Web, Spring & Spring MVC»
 
 ## Блок 1. Web
 
-1.1 HTTP и современный Web
-- [Задача: "Генератор словаря"](https://github.com/cat0cat/Http_Web.git)
-- [Handlers](https://github.com/cat0cat/Http_Web/tree/feature/handlers)
+ HTTP и современный Web
+* [Задачи "Refactoring & MultiThreading" и "Handlers"](https://github.com/AnnaGubkina/Http-server)
 
-1.2 Формы и форматы передачи данных
-- [Query](https://github.com/cat0cat/Http_Web/tree/feature/query)
-- [x-www-form-urlencoded](https://github.com/cat0cat/Http_Web/tree/feature/form)
+
+ Формы и форматы передачи данных
+* [Query](https://github.com/AnnaGubkina/Http-server/tree/feature/query)
 
 
 ## Блок 2. Java EE, Java Servlets
 
-2.1 Servlets Containers
-- [CRUD](https://github.com/cat0cat/Servlet-Containers.git)
-- [WebApp Runner](https://github.com/cat0cat/Servlet-Containers/tree/feature/webapp-runner)
+ Servlets Containers
+* [CRUD](https://github.com/AnnaGubkina/Servlet-Containers)
 
-2.2 Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
-- [Annotation Config](https://github.com/cat0cat/Servlet-Containers/tree/feature/di-annotation)
-- [Java Config](https://github.com/cat0cat/Servlet-Containers/tree/feature/di-java)
+ Dependency Lookup, Dependency Injection, IoC, Spring, Application Context
+* [Annotation Config](https://github.com/AnnaGubkina/Servlet-Containers/pull/3)
+* [Java Config](https://github.com/AnnaGubkina/Servlet-Containers/pull/4)
 
-2.3 Spring Web MVC
-- [Задача: "Migration"](https://github.com/cat0cat/SpringWeb_MVC.git)
-- [Задача: "Данные не удаляются"](https://github.com/cat0cat/SpringWeb_MVC/tree/feature/removed)
+ Spring Web MVC
+* [Задача: "Migration"](https://github.com/AnnaGubkina/MVC_migration)
+
 
 ## Модуль «Spring Boot, deployment и инфраструктура»
 
 ## Блок 1. Spring Boot
 
-1.1 Spring Boot: назначение, внутреннее устройство
-- [Conditional приложение](https://github.com/cat0cat/SpringWeb_MVC.git)
+ Spring Boot: назначение, внутреннее устройство
+- [Conditional приложение](https://github.com/AnnaGubkina/Conditional)
 
-1.2 REST
-- [Сервис авторизации](https://github.com/cat0cat/SpringBoot_REST.git)
-- [Продвинутый сервис авторизации](https://github.com/cat0cat/SpringBoot_REST/tree/advanced)
+ REST
+- [Сервис авторизации](https://github.com/AnnaGubkina/Authorization-service)
+- [Продвинутый сервис авторизации](https://github.com/AnnaGubkina/Authorization-service/pull/1)
 
 ## Блок 2. Linux
 
-2.1 Виртуализация и основы работы (домашнее задание не предусмотрено)
-
-2.2 Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl)
-- [Задача Прокси на nginx](https://github.com/cat0cat/SpringBoot_REST/tree/nginx)
+ Разворачивание Spring Boot приложений (nginx, systemd, firewall, journalctl)
+* [Задача Прокси на nginx](https://github.com/AnnaGubkina/Authorization-service/blob/master/nginx.txt)
 
 ## Блок 3. Docker
 
-3.1 Основы работы: Docker, Docker Compose, упаковка приложений
-- [Dockerfile](https://github.com/cat0cat/SpringBoot_REST/tree/docker)
+ Основы работы: Docker, Docker Compose, упаковка приложений
+* [Dockerfile к задаче Authorization-service](https://github.com/AnnaGubkina/Authorization-service)
 
-3.2 Обзорная лекция: TestContainers, Kubernetes, облака
-- [Интеграционное тестирование](https://github.com/cat0cat/SpringBoot_Conditional/tree/integration_testing)
+ Обзорная лекция: TestContainers, Kubernetes, облака
+* [Интеграционное тестирование к задаче Conditional](https://github.com/AnnaGubkina/Conditional/blob/master/src/test/java/com/gubkina/DemoApplicationTests.java)
+
+Курсовой проект **Сервис перевода денег**
+[Money transfer service](https://github.com/AnnaGubkina/MoneyTransferService)
+
 
 ## Модуль «Хранение данных и организация безопасности»
 
 ## Блок 1. Реляционные СУБД и JDBC
 
-1.1 SQL: основы работы, DDL, DML
-- [Таблица пользователей](https://github.com/cat0cat/SQL_Basic.git)
+ SQL: основы работы, DDL, DML
+* [Таблица пользователей](https://github.com/AnnaGubkina/Users_Table_SQL)
 
-1.2 SQL: вложенные подзапросы, JOIN'ы, агрегирующие запросы
-- [Две таблицы](https://github.com/cat0cat/SQL_Agg)
+ SQL: вложенные подзапросы, JOIN'ы, агрегирующие запросы
+* [Две таблицы](https://github.com/AnnaGubkina/Two_SQL_tables)
 
-1.3 JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
-- [DAO слой](https://github.com/cat0cat/SQL_JDBC.git)
-- [Миграции](https://github.com/cat0cat/SQL_JDBC/tree/migration-liquibase)
+ JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+* [DAO слой](https://github.com/AnnaGubkina/JDBC_Layer)
+* [Миграции](https://github.com/AnnaGubkina/JDBC_Layer/tree/migrations)
 
 ## Блок 2. JPA
 
-2.1 ORM, Hibernate
-- [DAO слой c Hibernate](https://github.com/cat0cat/SQL_Hibernate.git)
-- [Две таблицы с Hibernate](https://github.com/cat0cat/SQL_JDBC/tree/hibernate)
-- [Миграции c Hibernate](https://github.com/cat0cat/SQL_Hibernate/tree/migration-hibernate)
+ ORM, Hibernate
+* [DAO слой c Hibernate](https://github.com/AnnaGubkina/Hibernate_layer)
+* [Две таблицы с Hibernate](https://github.com/AnnaGubkina/JDBC_Layer/tree/hibernate)
+* [Миграции c Hibernate](https://github.com/AnnaGubkina/Hibernate_layer/tree/migration-hibernate/src/main)
 
-2.2 Spring JPA Repositories, JPQL
-- [DAO слой c JPA Repositories](https://github.com/cat0cat/SQL_Hibernate/tree/jpa-repository)
-- [@Query](https://github.com/cat0cat/SQL_Hibernate/tree/jpa-repository-query)
+ Spring JPA Repositories, JPQL
+* [DAO слой c JPA Repositories](https://github.com/AnnaGubkina/Hibernate_layer/tree/jpa-repository)
+* [@Query](https://github.com/AnnaGubkina/Hibernate_layer/tree/jpa-repository-query)
 
 ## Блок 3. Spring Security
 
-3.1 Безопасность в веб-приложениях, Spring Security
-- [Безопасное приложение](https://github.com/cat0cat/SQL_Hibernate/tree/security)
+ Безопасность в веб-приложениях, Spring Security
+* [Безопасное приложение](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_endpoints)
 
-3.2 Аутентификация и авторизация
-- [Безопасные методы](https://github.com/cat0cat/SQL_Hibernate/tree/security-methods)
--->
+ Аутентификация и авторизация
+* [Безопасные методы](https://github.com/AnnaGubkina/Hibernate_layer/tree/spring_security_methods)
+

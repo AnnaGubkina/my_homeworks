@@ -90,7 +90,7 @@
 * [Blocking IO. Задача: "Тяжелые вычисления"](https://github.com/AnnaGubkina/Computation-of-the-Fibonacci_Client_Server)
 * [Non-Blocking IO. Задача "Долой пробелы"](https://github.com/AnnaGubkina/Remove-spaces-client-server-communication)
 
-## Блок 2. Блок 2. Функциональное программирование, TDD и DDD
+## Блок 2. Функциональное программирование, TDD и DDD
 
  Функциональное программирование
 * [Задача: "Генератор словаря"](https://github.com/AnnaGubkina/Dictionary-generator_functional-programming)
